@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Naukri Test Automation Suite">
+
+
+    <test name="Naukri Login Tests">
+        <classes>
+            <class name="com.taf.HomePageTest"/>
+        </classes>
+    </test>
+
+</suite>
